@@ -38,6 +38,6 @@ PIND.1 → Decrease value (decrement H/L)
 
 PIND.2 → Back/Exit or Confirm selection
 
-Returns back  💻 Code Written using CodeVisionAVR.
+  💻 Code Written using CodeVisionAVR.
 
 📽️ Video YouTube video link: https://youtu.be/GP6H9gPxkSc
